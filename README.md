@@ -1,9 +1,12 @@
-#  Design Patterns
+# Design Patterns
 
 ### Описание курса:
-В данном видео-курсе мы с вами рассмотрим самые распространённые паттерны проектирования, которые используются при разработке. Рассматривать мы их с вами будем на примере языка JavaScript в синтаксисе ES6.
+
+В данном видео-курсе мы с вами рассмотрим самые распространённые паттерны проектирования, которые используются при
+разработке. Рассматривать мы их с вами будем на примере языка JavaScript в синтаксисе ES6.
 
 ## Список уроков:
+
 - [#0 Введение (Introduction)](https://youtu.be/RyY6x_6ws4s)
 - [#1 Singleton (Одиночка)](https://youtu.be/GrYs0qDQEp0)
 - [#2 Factory Method (Фабричный метод)](https://youtu.be/wmla1hxxvQI)
@@ -34,7 +37,8 @@
 [<img align="left" alt="webDev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="webDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="webDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;
+[<img align="left" alt="webDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+&nbsp;
 
 ## Поддержать канал:
 
@@ -43,7 +47,11 @@
 </a>
 
 [youtube]: https://youtube.com/YauhenKavalchuk
+
 [instagram]: https://instagram.com/YauhenKavalchuk
+
 [linkedin]: https://linkedin.com/in/YauhenKavalchuk
+
 [vk]: https://vk.com/YauhenKavalchuk
+
 [twitter]: https://twitter.com/YauhenKavalchuk
